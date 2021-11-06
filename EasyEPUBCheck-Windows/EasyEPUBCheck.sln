@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyEPUBCheck", "EasyEPUBCheck\EasyEPUBCheck.csproj", "{2641CB07-B927-438B-88B1-0BE5A84301FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F767120A-3184-424C-84CD-B3937483429D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F767120A-3184-424C-84CD-B3937483429D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F767120A-3184-424C-84CD-B3937483429D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F767120A-3184-424C-84CD-B3937483429D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2641CB07-B927-438B-88B1-0BE5A84301FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2641CB07-B927-438B-88B1-0BE5A84301FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2641CB07-B927-438B-88B1-0BE5A84301FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2641CB07-B927-438B-88B1-0BE5A84301FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -4,7 +4,7 @@ The W3C's EPUBCheck tool is a command-line program that validates the contents o
 
 EasyEPUBCheck takes that tool and wraps it in a pretty window with shiny buttons, for the benefit of anyone who isn't too confident with the command line:
 
-![A screenshot of the EasyEPUBCheck main window](/screenshot.jpg?raw=true)
+![A screenshot of EasyEPUBCheck on Windows](/screenshot-win.jpg?raw=true)
 
 ## Requirements
 A 64-bit Windows, macOS, or Linux system.
